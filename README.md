@@ -12,10 +12,6 @@ So the application uses two nested loops and tests all
 hashes of those values and checks to see if the computed hash
 matches.
 
-You can play with this application at:
-
-http://www.wa4e.com/code/crack
-
 This is a Reverse Hash MD5 Application that tells us how easy it is to crack short passwords
 with a limited alphabet. While this works well to crack 
 very short passwords it is not practical as password
